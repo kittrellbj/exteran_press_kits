@@ -4,6 +4,12 @@
 
 ---
 
+## 📰 Press & Media
+For a press one-sheet, media assets, and contact information, visit:  
+👉 [https://exteran.com/press](https://exteran.com/press)
+
+---
+
 ## 🎶 About *This Long Broken Road*
 *This Long Broken Road* is the groundbreaking dual-album release from **Exteran Studios**. Written by songwriter and computer scientist **Brian Kittrell**, the project explores themes of **loss, resilience, redemption, and hope** through two AI-driven voice personas:
 
@@ -34,12 +40,6 @@ Available on **Spotify, Apple Music, Amazon Music, TikTok Music, YouTube**, and 
 Brian is a **bestselling author** (350,000+ copies worldwide) and a **computer scientist specializing in Artificial Intelligence**, currently completing his **MSCS at Georgia Tech**. He founded Exteran Studios to merge authentic storytelling with emerging technologies.  
 
 What began as an experiment in generative music became a mission: to share songs that had lived in notebooks for decades, finally brought to life through Dawson and Sadie.
-
----
-
-## 📰 Press & Media
-For a press one-sheet, media assets, and contact information, visit:  
-👉 [https://exteran.com/press](https://exteran.com/press)
 
 ---
 
