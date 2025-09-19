@@ -1,4 +1,4 @@
-# Exteran Studios – Music & Innovation
+# Exteran Studios – Press Kits & Files
 
 **If you're looking for Exteran Studios, visit [https://exteran.com](https://exteran.com).**
 
